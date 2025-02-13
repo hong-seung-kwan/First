@@ -15,7 +15,9 @@ public class HelloJava {
 		// 문장을 출력하는 코드
 		// 문장을 완성할때는 세미콜론으로 마무리
 		// 문법에러가 발생이되면 빨간색으로 표시됨
-		System.out.println("hongseungkwan, hi~");
+		System.out.println("hongseungkwan");
+		
+		// 테스트 수정
 
 	}
 
